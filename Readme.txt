@@ -1,3 +1,3 @@
-Steven Rushin
+SR
 
 This is a sample txt.
