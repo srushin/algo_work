@@ -3,9 +3,25 @@ div.title{
 }
 
 div.ingredients{
-    background-image: url("Guinness-Beef-Stew-ingredients.jpg");
+    background-color: whitesmoke;
 }
 
 div.instructions{
     background-color: #ee9d04;
+}
+
+div{
+    padding: 20px;
+}
+
+h1{
+    color: floralwhite;
+    text-decoration: underline;
+    font-size: 40px;
+}
+
+h2{
+    color: saddlebrown;
+    text-decoration: underline;
+    font-size: 25px;
 }
