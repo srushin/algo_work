@@ -15,7 +15,7 @@ def split_arrange(str_a):
         second_half = str_a[half_length + 1:]
         return second_half + first_half
 
-print({split_arrange(str_a)})
+print(f'{split_arrange(str_a)}')
 
 ##Unique Characters in String
 ##Given a string, determine if it consists of all unique characters.
